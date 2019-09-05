@@ -1,8 +1,12 @@
+name: christoph
+class: center
+
 # Introduction
 
-Testing
+Testing for {{ name }}.
 
 ---
-## Page 2
+
+# Page 2
 
 More testing
